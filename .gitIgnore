@@ -1,0 +1,10 @@
+#hardhat files
+artifacts
+cache
+
+node_modules
+
+Degree.sol
+deploy.js
+
+degree.js
