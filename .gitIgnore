@@ -4,7 +4,8 @@ cache
 
 node_modules
 
-Degree.sol
-deploy.js
+RewardToken.sol
+StakeToken.sol
+Staking.sol
 
-degree.js
+staking.test.js
